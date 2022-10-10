@@ -56,7 +56,7 @@ patch:
 #  載入朙月拼音擴充詞庫
   "translator/dictionary": luna_pinyin.extended
 #  拼写纠错
-  "translator/enable_correction": true
+#  "translator/enable_correction": true
 
 #  符号快速输入和部分符号的快速上屏
   punctuator:
